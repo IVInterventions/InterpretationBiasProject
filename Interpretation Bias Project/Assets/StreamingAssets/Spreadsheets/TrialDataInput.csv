@@ -1,0 +1,152 @@
+wordtype,word,sentence
+Unrelated,Shoe,People in class laugh at your presentation
+Related,Speech,People in class laugh at your presentation
+Unrelated,Squirrel,You drop your cellphone and it cracks
+Related,Glass,You drop your cellphone and it cracks
+Unrelated,Castle,You forgot to buy an ingredient for dinner
+Related,Groceries,You forgot to buy an ingredient for dinner
+Unrelated,Bike,You have not heard back from a friend
+Related,Phone,You have not heard back from a friend
+Unrelated,Flatten,Your doctor refers you to another physician
+Related,Hospital,Your doctor refers you to another physician
+Unrelated,Mouse,Your best friend doesn't  return your voicemail
+Related,Phone,Your best friend doesn't  return your voicemail
+Related,Appointment,The doctor examined your growth
+Unrelated,Feast,The doctor examined your growth
+Related,supervisor,You are late for a meeting with your boss
+Unrelated,Stroller,You are late for a meeting with your boss
+Related,Flight,You feel the plane drop in the air
+Unrelated,Exhibition,You feel the plane drop in the air
+Related,Elbow,Someone bumps into you in the hall
+Unrelated,Lock,Someone bumps into you in the hall
+Unrelated,Net,You ask for help with a project
+Related,Question,You ask for help with a project
+Related,Cash,You ask your parents for some money
+Unrelated,Moon,You ask your parents for some money
+positive,Kind,A friend insists on paying for dinner
+negative,Pity,A friend insists on paying for dinner
+positive,Supportive,A friend suggests you join their gym
+negative,Judgemental,A friend suggests you join their gym
+positive,Accomplishment,After working hard you finally complete a task
+negative,Slow,After working hard you finally complete a task
+neutral,Space,No one sits next to you on the bus
+negative,Stink,No one sits next to you on the bus
+positive,Witty,People in class laugh at your presentation
+negative,Embarrassed,People in class laugh at your presentation
+positive,Trustworthy,You are asked to assume new responsibility
+negative,Inadequate ,You are asked to assume new responsibility
+positive,Acceptable,You didn't get everything done today
+negative,Failure,You didn't get everything done today
+positive,Upgrade,You drop your cellphone and it cracks
+negative,Clumsy,You drop your cellphone and it cracks
+neutral,Improvise,You forgot your line in the play
+negative,Ruined,You forgot your line in the play
+neutral,Volunteers,You get called to the principal's office
+negative,Problem,You get called to the principal's office
+neutral,Delayed,You get stuck in bad traffic
+negative,Doomed,You get stuck in bad traffic
+positive,Improvement,You go for a run and stop after one mile
+negative,Weak,You go for a run and stop after one mile
+neutral,Unnoticed,You hands tremble while giving a speech
+negative,Ruined,You hands tremble while giving a speech
+neutral,Busy,You have not heard back from a friend
+negative,Failure ,You have not heard back from a friend
+neutral,Opportunity,You have only one friend
+negative,Loser,You have only one friend
+positive,Efficient,You hit send on an email before checking it
+negative,Mistakes,You hit send on an email before checking it
+neutral,Dryout,You leave your car windows open during a rain storm
+negative,Destroyed,You leave your car windows open during a rain storm
+neutral,Unnoticed,You make a small mistake at school
+negative,Failed,You make a small mistake at school
+positive,Friendly,You make small talk with people at lunch
+negative,Awkward,You make small talk with people at lunch
+neutral,Normal,You need help with a report
+negative,Incapable,You need help with a report
+neutral,Hurry,You wave to a friend who does not wave back
+negative,Ignored,You wave to a friend who does not wave back
+positive,Helpful,You were given a lot of feedback on an assignment
+negative,Failure,You were given a lot of feedback on an assignment
+neutral,Preoccupied,Your teacher ignores your question
+negative,Rejected,Your teacher ignores your question
+neutral,Thorough,Your doctor orders a lab test
+negative,Dying,Your doctor orders a lab test
+positive,Thorough,Your doctor refers you to another physician
+negative,Complication,Your doctor refers you to another physician
+positive,Celebrate,Your friend gets a better grade than you
+negative,Worthless,Your friend gets a better grade than you
+positive,Support,Your partner asks you to talk
+negative,Break-up,Your partner asks you to talk
+Unrelated,Mouse,Your best friend doesn't  return your voicemail
+Related,Phone,Your best friend doesn't  return your voicemail
+neutral,Occupied,Your best friend doesn't  return your voicemail
+negative,Abandoned,Your best friend doesn't  return your voicemail
+neutral,Forgetful,Your forget to take out the trash
+negative,Inconsiderate,Your forget to take out the trash
+negative,Disgusting,No one comments on the dinner you cooked
+neutral,Socializing,No one comments on the dinner you cooked
+neutral,Check-up,The doctor examined your growth
+negative,Tumor,The doctor examined your growth
+negative,Demotion,You are late for a meeting with your boss
+positive,Understanding,You are late for a meeting with your boss
+negative,Hopeless,You feel overwhelmed by everything you need to do
+neutral,Temporary,You feel overwhelmed by everything you need to do
+Negative,Crash,You feel the plane drop in the air
+neutral,Windy,You feel the plane drop in the air
+negative,Careless,You forgot to add an event to your calendar
+neutral,Hectic,You forgot to add an event to your calendar
+negative,Hopeless,You lose your job
+positive,Resilient,You lose your job
+positive,Invitation,You receive a letter in the mail
+negative,Expulsion letter,You receive a letter in the mail
+negative,Incompetent,You think you did an assignment incorrectly
+neutral,Re-do,You think you did an assignment incorrectly
+negative,Dead,Your parent isn't home from work on time
+positive,Working,Your parent isn't home from work on time
+positive,Cheap,Your birthday gift is not what you expected
+negative,Expensive,Your birthday gift is not what you expected
+negative,Accident,Your friend is late to dinner
+positive,Flowers,Your friend is late to dinner
+neutral,Busy,Your friend doesn't call you back
+negative,Cheat,Your friend doesn't call you back
+negative,Disaster,Your party doesn't turn out exactly like you wanted
+neutral,Unimportant,Your party doesn't turn out exactly like you wanted
+positive,Excited,Your stomach hurts
+negative,Illness,Your stomach hurts
+positive,Accident,Someone bumps into you in the hall
+negative,Hostile,Someone bumps into you in the hall
+negative,Rejected,Someone ignores your friend request on Facebook 
+neutral,Unnoticed,Someone ignores your friend request on Facebook 
+neutral,Common,Someone mentions that your fly is unzipped 
+negative,Humiliating ,Someone mentions that your fly is unzipped 
+neutral,Etiquette,Someone offers to spot you lifting weights 
+negative,Weakness,Someone offers to spot you lifting weights 
+neutral,Inconvenient,The manager is called to help with your purchase
+negative,Trouble,The manager is called to help with your purchase
+neutral,Accident,You accidentally bump into another student
+negative,Clumsy,You accidentally bump into another student
+neutral,Bummer,You are overlooked for a promotion
+negative,Worthless,You are overlooked for a promotion
+negative,Helpless,You ask for help with a project
+neutral,Learning,You ask for help with a project
+negative,Greedy,You ask your parents for some money
+positive,Resourceful,You ask your parents for some money
+positive,Earned,You get a raise
+negative,Fluke,You get a raise
+positive,Achievement,You get an B+ on your exam
+negative,Deficient,You get an B+ on your exam
+positive,Amusing,You get the hiccups during a conversation
+negative,Humiliating ,You get the hiccups during a conversation
+positive,Bad economy,You graduate college and don't have a job
+negative,Doomed,You graduate college and don't have a job
+positive,Challenge,You have trouble with an assignment
+negative,Dumb,You have trouble with an assignment
+negative,dread,You have to speak to someone on the phone
+neutral,communication,You have to speak to someone on the phone
+positive,supporitve,You have to speak to someone on the phone
+negative,strange,Classmates watch you while you are working
+positive,talent,Classmates watch you while you are working
+negative,avoid,You are the center of attention
+positive,talented,You are the center of attention
+negative,ruined,You forgot to study for an exam
+neutral,attempt,You forgot to study for an exam

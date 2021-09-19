@@ -1,0 +1,21 @@
+wordtype,word,sentence,Reaction Time,Interpretation,Session Number
+positive,Kind,A friend insists on paying for dinner,0,Null,1
+negative,Pity,A friend insists on paying for dinner,0,Null,1
+positive,Supportive,A friend suggests you join their gym,0,Null,1
+negative,Judgemental,A friend suggests you join their gym,0,Null,1
+positive,Accomplishment,After working hard you finally complete a task,0,Null,1
+negative,Slow,After working hard you finally complete a task,0,Null,1
+neutral,Space,No one sits next to you on the bus,0,Null,1
+negative,Stink,No one sits next to you on the bus,0,Null,1
+Unrelated,Shoe,People in class laugh at your presentation,0,Null,1
+Related,Speech,People in class laugh at your presentation,0,Null,1
+positive,Witty,People in class laugh at your presentation,0,Null,1
+negative,Embarrassed,People in class laugh at your presentation,0,Null,1
+positive,Trustworthy,You are asked to assume new responsibility,0,Null,1
+negative,Inadequate ,You are asked to assume new responsibility,0,Null,1
+positive,Acceptable,You didn't get everything done today,0,Null,1
+negative,Failure,You didn't get everything done today,0,Null,1
+Unrelated,Squirrel,You drop your cellphone and it cracks,0,Null,1
+Related,Glass,You drop your cellphone and it cracks,0,Null,1
+positive,Upgrade,You drop your cellphone and it cracks,0,Null,1
+negative,Clumsy,You drop your cellphone and it cracks,0,Null,1

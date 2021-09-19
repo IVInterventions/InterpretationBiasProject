@@ -1,0 +1,21 @@
+wordtype,word,sentence
+positive,Kind,A friend insists on paying for dinner
+negative,Pity,A friend insists on paying for dinner
+positive,Supportive,A friend suggests you join their gym
+negative,Judgemental,A friend suggests you join their gym
+positive,Accomplishment,After working hard you finally complete a task
+negative,Slow,After working hard you finally complete a task
+neutral,Space,No one sits next to you on the bus
+negative,Stink,No one sits next to you on the bus
+Unrelated,Shoe,People in class laugh at your presentation
+Related,Speech,People in class laugh at your presentation
+positive,Witty,People in class laugh at your presentation
+negative,Embarrassed,People in class laugh at your presentation
+positive,Trustworthy,You are asked to assume new responsibility
+negative,Inadequate ,You are asked to assume new responsibility
+positive,Acceptable,You didn't get everything done today
+negative,Failure,You didn't get everything done today
+Unrelated,Squirrel,You drop your cellphone and it cracks
+Related,Glass,You drop your cellphone and it cracks
+positive,Upgrade,You drop your cellphone and it cracks
+negative,Clumsy,You drop your cellphone and it cracks
